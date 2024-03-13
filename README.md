@@ -1,4 +1,6 @@
 # Resume_Projects
+-----------------------------------------------------------------------------------------------------------------------------
+# Personal Projects
 Project 1 
 - This is an NHL data analysis process that allows a user to see four different statastics leaders for the National Hockey Leauge. These four options include top goal scorers, goalies with the highest save percentage, players with the most hits, and players with the highest amount of penalty minutes. All of this data is gathered from two csv files from the beginning of the 2023-24 season which are required to run this code and have been attached as a file here in Github (nhl-stats_1, nhl-stats_2).
 
