@@ -10,7 +10,7 @@ Project 2
 Project 3 
 - This is a script that is able to handle and process image data that is in JSON format. Within this code, the constants and functions are defined which allow the code to complete things like file handling, data reading, as well as analysis. Through the function of main, the user can choose from the following options, displaying categories, finding images by category, and analyzing the word frequency in the captions. 
 
-#Group Projects 
+# Group Projects 
 Organization Project 
 - This is a final group project that established our knowledge of understanding how an organization works at each layer. The goal of this project was to build an organizational plan for a business and to increase our project management skills. Our team decided on creating an medical AI organization which can be viewed through the **Final Organization Slides pptx** and the summary doc which explains the slides in detail (**335 Final Project Slides Summary**).
 
